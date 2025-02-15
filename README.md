@@ -34,9 +34,12 @@ Simply open the `index.html` file in your preferred web browser to view the **Am
 
 ## 🚀 Future Enhancements
 
-- 🔧 Adding JavaScript functionality for interactive features like **dynamic search, cart functionality, and user authentication**.
-- 🌍 Improving **accessibility** for a better user experience across different demographics.
-- 🗄️ Integrating a **backend system** for real-time product listings and user data.
+- 🛒 **Dynamic Shopping Cart**: Implement JavaScript functionality to allow users to add and remove items from a virtual cart.
+- 🔍 **Search Functionality**: Integrate a search bar with filtering options to improve navigation.
+- 👤 **User Authentication**: Add login and registration features for a personalized shopping experience.
+- 🌍 **Accessibility Improvements**: Enhance the website to be more inclusive for users with disabilities by improving contrast, adding alt text, and ensuring keyboard navigation.
+- 💾 **Backend Integration**: Develop a backend system to manage real-time product listings, user data, and order processing.
+- 📱 **Progressive Web App (PWA) Features**: Make the website installable on mobile devices with offline capabilities.
 
 ## 📜 License
 This project is licensed under the **MIT License**.
